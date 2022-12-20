@@ -15,6 +15,7 @@ public class Defans extends AktifFutbolcu {
 		this.sicrama = rastgeleYetenekPuanıAta();
 	}
 
+	// yorum satırı
 	@Override
 	public int rastgeleYetenekPuanıAta() {
 		Random random = new Random();
